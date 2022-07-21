@@ -9,6 +9,7 @@ Day 1:
   - [x] Practical Exercises & Solutions - Part #1: Basics of C Programming
 
 Day 2:
+  - [ ] Variables & Data Types - From Zero To Hero!
   - [ ] Practical Exercises & Solutions - Part #2: Variables & Data Types
   - [ ] AlphaTech - QUIZ #1
 
