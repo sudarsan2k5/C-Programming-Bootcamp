@@ -1,79 +1,80 @@
 # C-Programming-Bootcamp
 ## 21 Days Challenge | 21st July 2022
 
-Day 1:
-  - [x] Welcome to Course!
-  - [x] Introduction to General Programming Fundamentals!
-  - [x] Welcome First Program  [+3 Full Exercises & Video Solutions]
-  - [x] Comments & Format Specification
-  - [x] Practical Exercises & Solutions - Part #1: Basics of C Programming
+1️⃣ Day:
+  - ✅ Welcome to Course!
+  - ✅ Introduction to General Programming Fundamentals!
+  - ✅ Welcome First Program  [+3 Full Exercises & Video Solutions]
+  - ✅ Comments & Format Specification
+  - ✅ Practical Exercises & Solutions - Part #1: Basics of C Programming
 
-Day 2:
-  - [ ] Variables & Data Types - From Zero To Hero!
-  - [ ] Practical Exercises & Solutions - Part #2: Variables & Data Types
-  - [ ] AlphaTech - QUIZ #1
+2️⃣ Day:
+  - ✔ Variables & Data Types - From Zero To Hero!
+  - ✔ Practical Exercises & Solutions - Part #2: Variables & Data Types
+  - ✔ AlphaTech - QUIZ #1
 
-Day 3:
-  - [ ] Conditions And Control Flow - "Is That True/False"?
-  - [ ] Practical Exercises & Solutions - Part #3: Conditions & Control Flow
+3️⃣ Day:
+  - 👉 Conditions And Control Flow - "Is That True/False"?
+  - 👉 Practical Exercises & Solutions - Part #3: Conditions & Control Flow
 
-Day 4:
+4️⃣ Day:
   - [ ] Binary, Hex and ASCII
+  - [ ] Loops - For, While, and Do-While
 
-Day 5:
+5️⃣ Day:
   - [ ] Practical Exercises & Solutions - Part #4: Loops in C
 
-Day 6:
+6️⃣ Day:
   - [ ] Functions - Theory & Introduction!
   - [ ] Practical Exercises & Solutions - Part #5: Functions in C
 
-Day 7:
+7️⃣ Day:
   - [ ] Arrays - Concept & 1D Arrays
   - [ ] Matrix - 2D Arrays
 
-Day 8:
+8️⃣ Day:
   - [ ] Matrix - 2D Arrays
   - [ ] Pointers - Wooha!
 
-Day 9:
+9️⃣ Day:
   - [ ] Practical Exercises & Solutions - Part #6: 1D Arrays - Intermediate Level
 
-Day 10:
+🔟 Day:
   - [ ] Strings In General And In C Programming
   - [ ] Practical Exercises & Solutions - Part #7: Strings in C
 
-Day 11:
+1️⃣1️⃣ Day:
   - [ ] Recursions Recursions Recursions!!
 
-Day 12:
+1️⃣2️⃣ Day:
   - [ ] Practical Exercises & Solutions - Part #8: Recursions in C
 
-Day 13:
+1️⃣3️⃣ Day:
   - [ ] Practical Exercises & Solutions - Part #8: Recursions in C
 
-Day 14:
+1️⃣4️⃣ Day:
   - [ ] Practical Exercises & Solutions - Part #8: Recursions in C
 
-Day 15:
+1️⃣5️⃣ Day:
   - [ ] Structs - Additional Content in C Programming
 
-Day 16:
+1️⃣6️⃣ Day:
   - [ ] Structs - Additional Content in C Programming
 
-Day 17:
+1️⃣7️⃣ Day:
   - [ ] Unions - Additional Content C Programming Language
   Constants
 
-Day 18:
+1️⃣8️⃣ Day:
   - [ ] Counting Arrays - Theory, Logic, and Practice!
 
-Day 19:
+1️⃣9️⃣ Day:
   - [ ] Extra [Optional] - Working with FILES!
 
-Day 20:
+2️⃣0️⃣ Day:
   - [ ] Extra [Optional] - Working with FILES!
 
-Day 21:
+2️⃣1️⃣ Day:
   - [ ] Extra [Optional] - Linked Lists Practice!
   - [ ] Interview Questions?!
   - [ ] Congratulations! I've made it!
