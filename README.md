@@ -1,5 +1,5 @@
-# C-Programming-Bootcamp
-## 21 Days Challenge | 21st July 2022
+# 👨‍💻 C-Programming-Bootcamp
+## 🏆 21 Days Challenge | 21st July 2022
 
 1️⃣ Day:
   - ✅ Welcome to Course!
