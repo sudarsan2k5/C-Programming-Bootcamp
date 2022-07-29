@@ -1,14 +1,17 @@
 #include <stdio.h>
 
 int main(){
-int num;
-int i = 0;
-printf("Enter a number: ");
+    int num;
+    int i = 0;
+    printf("Enter a number: ");
+    scanf("%d", &num);
 
-while(i < num){
-    printf("*");
-    num = num < 10;
-}
+    while(i < num){
 
-return 0;
+        printf("*");
+        i++;
+
+    }
+
+    return 0;
 }

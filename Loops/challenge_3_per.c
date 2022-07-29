@@ -1,19 +1,20 @@
 #include <stdio.h>
 
 int main(){
-int grade;
-int totalSum = 0, gradeCount = 0;
-printf("Enter your grade or -1 to stope");
-scanf("%d", &grade);
-
-while(grade != -1){
-    totalSum = totalSum + grade;
-    gradeCount++;
-    printf("Enter your grade or -1 to stope");
+    int grade;
+    printf("Enter a Num and -1 to stop: ");
     scanf("%d", &grade);
-}
-printf("you've entered %d grades!\n",gradeCount);
-printf("Your avg grade is %f\n", (float)totalSum/gradeCount);
 
-    return 0;
+    int totalGrade = 0;
+    int count = 0;
+    
+    while (grade  != -1){
+        totalGrade += grade;
+        count ++;
+        
+        printf("Enter a Num and -1 to stop: ");
+        scanf("%d", &grade);
+    }
+    float avg = totalGrade / count;
+    printf("The avg is: %lf",  avg);
 }
