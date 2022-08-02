@@ -18,8 +18,8 @@
   - 👉 Practical Exercises & Solutions - Part #3: Conditions & Control Flow
 
 4️⃣ Day:
-  - [ ] Binary, Hex and ASCII
-  - [ ] Loops - For, While, and Do-While
+  - [x] Binary, Hex and ASCII
+  - [x] Loops - For, While, and Do-While
 
 5️⃣ Day:
   - [ ] Practical Exercises & Solutions - Part #4: Loops in C
