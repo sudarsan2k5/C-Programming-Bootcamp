@@ -25,51 +25,51 @@
   - ✅ Practical Exercises & Solutions - Part #4: Loops in C
 
 6️⃣ Day:
-  - [ ] Functions - Theory & Introduction!
-  - [ ] Practical Exercises & Solutions - Part #5: Functions in C
+  - [x] Functions - Theory & Introduction!
+  - [x] Practical Exercises & Solutions - Part #5: Functions in C
 
 7️⃣ Day:
-  - [ ] Arrays - Concept & 1D Arrays
-  - [ ] Matrix - 2D Arrays
+  - [x] Arrays - Concept & 1D Arrays
+  - [x] Matrix - 2D Arrays
 
 8️⃣ Day:
-  - [ ] Matrix - 2D Arrays
-  - [ ] Pointers - Wooha!
+  - [x] Matrix - 2D Arrays
+  - [x] Pointers - Wooha!
 
 9️⃣ Day:
-  - [ ] Practical Exercises & Solutions - Part #6: 1D Arrays - Intermediate Level
+  - [x] Practical Exercises & Solutions - Part #6: 1D Arrays - Intermediate Level
 
 🔟 Day:
-  - [ ] Strings In General And In C Programming
-  - [ ] Practical Exercises & Solutions - Part #7: Strings in C
+  - [x] Strings In General And In C Programming
+  - [x] Practical Exercises & Solutions - Part #7: Strings in C
 
 1️⃣1️⃣ Day:
-  - [ ] Recursions Recursions Recursions!!
+  - [x] Recursions Recursions Recursions!!
 
 1️⃣2️⃣ Day:
-  - [ ] Practical Exercises & Solutions - Part #8: Recursions in C
+  - [x] Practical Exercises & Solutions - Part #8: Recursions in C
 
 1️⃣3️⃣ Day:
-  - [ ] Practical Exercises & Solutions - Part #8: Recursions in C
+  - [x] Practical Exercises & Solutions - Part #8: Recursions in C
 
 1️⃣4️⃣ Day:
-  - [ ] Practical Exercises & Solutions - Part #8: Recursions in C
+  - [x] Practical Exercises & Solutions - Part #8: Recursions in C
 
 1️⃣5️⃣ Day:
-  - [ ] Structs - Additional Content in C Programming
+  - [x] Structs - Additional Content in C Programming
 
 1️⃣6️⃣ Day:
-  - [ ] Structs - Additional Content in C Programming
+  - [x] Structs - Additional Content in C Programming
 
 1️⃣7️⃣ Day:
-  - [ ] Unions - Additional Content C Programming Language
+  - [x] Unions - Additional Content C Programming Language
   Constants
 
 1️⃣8️⃣ Day:
-  - [ ] Counting Arrays - Theory, Logic, and Practice!
+  - [x] Counting Arrays - Theory, Logic, and Practice!
 
 1️⃣9️⃣ Day:
-  - [ ] Extra [Optional] - Working with FILES!
+  - [x] Extra [Optional] - Working with FILES!
 
 2️⃣0️⃣ Day:
   - [ ] Extra [Optional] - Working with FILES!
